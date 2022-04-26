@@ -16,3 +16,9 @@
 ### run the project
 ``` flask run ```
 
+## Endpoints
+
+```get: /temperature/<city_name>```
+
+```get: /temperature?max=<max_number>```
+
